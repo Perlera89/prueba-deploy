@@ -1,0 +1,165 @@
+{
+  "lastUpdated": "2024-05-04",
+  "introduction": "En BrainsLearn, valoramos y respetamos tu privacidad. Esta Política de Privacidad describe cómo recopilamos, utilizamos y compartimos tu información personal cuando utilizas nuestra plataforma educativa.",
+  "sections": [
+    {
+      "id": "informacion",
+      "title": "Información que Recopilamos",
+      "icon": "Database",
+      "content": {
+        "type": "list",
+        "introduction": "Podemos recopilar los siguientes tipos de información:",
+        "items": [
+          {
+            "title": "Información de registro:",
+            "description": "Nombre, dirección de correo electrónico, contraseña y otros datos proporcionados durante el proceso de registro."
+          },
+          {
+            "title": "Información de perfil:",
+            "description": "Datos adicionales que decides compartir en tu perfil, como fotografía, biografía o intereses académicos."
+          },
+          {
+            "title": "Información de uso:",
+            "description": "Datos sobre cómo interactúas con nuestra plataforma, incluyendo cursos visitados, tiempo de visualización y progreso en los cursos."
+          },
+          {
+            "title": "Información de pago:",
+            "description": "Detalles necesarios para procesar tus compras, aunque los datos completos de tarjetas de crédito no son almacenados en nuestros servidores."
+          },
+          {
+            "title": "Información técnica:",
+            "description": "Dirección IP, tipo de navegador, proveedor de servicios de Internet, páginas de referencia/salida, sistema operativo, fecha/hora y datos de clickstream."
+          }
+        ]
+      }
+    },
+    {
+      "id": "uso",
+      "title": "Cómo Utilizamos tu Información",
+      "icon": "User",
+      "content": {
+        "type": "list",
+        "introduction": "Utilizamos la información recopilada para:",
+        "items": [
+          {
+            "description": "Proporcionar, mantener y mejorar nuestra plataforma educativa."
+          },
+          {
+            "description": "Procesar tus transacciones y gestionar tu cuenta."
+          },
+          {
+            "description": "Personalizar tu experiencia de aprendizaje y recomendarte contenido relevante."
+          },
+          {
+            "description": "Comunicarnos contigo sobre actualizaciones, ofertas especiales o información importante."
+          },
+          {
+            "description": "Analizar tendencias de uso para mejorar nuestros servicios y desarrollar nuevas funcionalidades."
+          },
+          {
+            "description": "Detectar, prevenir y abordar problemas técnicos o de seguridad."
+          }
+        ]
+      }
+    },
+    {
+      "id": "comparticion",
+      "title": "Compartición de Información",
+      "icon": "Share2",
+      "content": {
+        "type": "list",
+        "introduction": "No vendemos ni alquilamos tu información personal a terceros. Podemos compartir tu información en las siguientes circunstancias:",
+        "items": [
+          {
+            "title": "Proveedores de servicios:",
+            "description": "Compartimos información con empresas que nos ayudan a operar nuestra plataforma, como procesadores de pago o servicios de alojamiento web."
+          },
+          {
+            "title": "Cumplimiento legal:",
+            "description": "Podemos divulgar información cuando sea requerido por ley o para proteger nuestros derechos legales."
+          },
+          {
+            "title": "Con tu consentimiento:",
+            "description": "Compartiremos tu información personal para cualquier otro propósito con tu consentimiento explícito."
+          }
+        ]
+      }
+    },
+    {
+      "id": "seguridad",
+      "title": "Seguridad de Datos",
+      "icon": "Lock",
+      "content": {
+        "type": "paragraph",
+        "text": "Implementamos medidas de seguridad técnicas y organizativas diseñadas para proteger tu información personal contra acceso no autorizado, pérdida o alteración. Sin embargo, ningún método de transmisión por Internet o almacenamiento electrónico es 100% seguro, por lo que no podemos garantizar su seguridad absoluta."
+      }
+    },
+    {
+      "id": "derechos",
+      "title": "Tus Derechos",
+      "icon": "UserCheck",
+      "content": {
+        "type": "list",
+        "introduction": "Dependiendo de tu ubicación, puedes tener los siguientes derechos respecto a tu información personal:",
+        "items": [
+          {
+            "description": "Acceder a la información personal que tenemos sobre ti."
+          },
+          {
+            "description": "Corregir datos inexactos o incompletos."
+          },
+          {
+            "description": "Solicitar la eliminación de tu información personal."
+          },
+          {
+            "description": "Oponerte al procesamiento de tus datos para ciertos propósitos."
+          },
+          {
+            "description": "Solicitar la restricción del procesamiento de tus datos."
+          },
+          {
+            "description": "Solicitar la portabilidad de tus datos a otro servicio."
+          }
+        ],
+        "conclusion": "Para ejercer estos derechos, contáctanos a través de los medios proporcionados al final de esta política."
+      }
+    },
+    {
+      "id": "cookies",
+      "title": "Cookies y Tecnologías Similares",
+      "icon": "Cookie",
+      "content": {
+        "type": "paragraph",
+        "text": "Utilizamos cookies y tecnologías similares para mejorar tu experiencia, analizar el tráfico y personalizar el contenido. Puedes controlar el uso de cookies a través de la configuración de tu navegador, aunque esto puede afectar la funcionalidad de nuestra plataforma."
+      }
+    },
+    {
+      "id": "cambios",
+      "title": "Cambios a esta Política",
+      "icon": "RefreshCw",
+      "content": {
+        "type": "paragraph",
+        "text": "Podemos actualizar nuestra Política de Privacidad periódicamente. Te notificaremos cualquier cambio publicando la nueva Política de Privacidad en esta página y, si los cambios son significativos, te enviaremos una notificación."
+      }
+    },
+    {
+      "id": "contacto",
+      "title": "Contacto",
+      "icon": "Mail",
+      "content": {
+        "type": "contact",
+        "introduction": "Si tienes preguntas sobre esta Política de Privacidad, puedes contactarnos a través de:",
+        "methods": [
+          {
+            "icon": "Mail",
+            "text": "Correo electrónico: privacidad@brainslearn.edu"
+          },
+          {
+            "icon": "User",
+            "text": "Formulario de contacto en nuestra Plataforma"
+          }
+        ]
+      }
+    }
+  ]
+}

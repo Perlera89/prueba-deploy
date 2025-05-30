@@ -1,0 +1,141 @@
+{
+  "lastUpdated": "2024-05-04",
+  "introduction": "Bienvenido a BrainsLearn. Estos términos y condiciones describen las reglas y regulaciones para el uso del sitio web de BrainsLearn. Al acceder a este sitio web, asumimos que aceptas estos términos y condiciones en su totalidad.",
+  "sections": [
+    {
+      "id": "definiciones",
+      "title": "Definiciones",
+      "icon": "FileText",
+      "content": {
+        "type": "list",
+        "introduction": "Para los propósitos de estos Términos y Condiciones:",
+        "items": [
+          {
+            "title": "\"Plataforma\"",
+            "description": "se refiere al sitio web de BrainsLearn."
+          },
+          {
+            "title": "\"Usuario\"",
+            "description": "se refiere a la persona que accede a la Plataforma y cumple con los términos y condiciones de la empresa."
+          },
+          {
+            "title": "\"Contenido\"",
+            "description": "se refiere a todos los materiales educativos, cursos, videos, textos, imágenes y otros recursos disponibles en la Plataforma."
+          },
+          {
+            "title": "\"Cuenta\"",
+            "description": "se refiere al registro personal que permite al Usuario acceder a servicios exclusivos dentro de la Plataforma."
+          }
+        ]
+      }
+    },
+    {
+      "id": "registro",
+      "title": "Registro y Cuenta",
+      "icon": "Users",
+      "content": {
+        "type": "paragraph",
+        "text": "Para utilizar ciertas funcionalidades de nuestra Plataforma, deberás registrarte y crear una cuenta. Al hacerlo, aceptas proporcionar información precisa, actualizada y completa. Eres responsable de mantener la confidencialidad de tu contraseña y de todas las actividades que ocurran bajo tu cuenta."
+      }
+    },
+    {
+      "id": "contenido",
+      "title": "Uso del Contenido",
+      "icon": "FileText",
+      "content": {
+        "type": "paragraph",
+        "text": "Todo el Contenido disponible en la Plataforma está protegido por derechos de autor y otras leyes de propiedad intelectual. El Usuario puede acceder al Contenido únicamente para su uso personal y no comercial. Queda prohibida la reproducción, distribución, modificación, exhibición pública o creación de trabajos derivados del Contenido sin autorización expresa."
+      }
+    },
+    {
+      "id": "pagos",
+      "title": "Compras y Pagos",
+      "icon": "CreditCard",
+      "content": {
+        "type": "paragraph",
+        "text": "Al realizar una compra en nuestra Plataforma, aceptas pagar el precio indicado por el curso o servicio seleccionado. Todos los pagos son procesados a través de proveedores de servicios de pago seguros. Una vez completada la compra, tendrás acceso al contenido adquirido según los términos específicos de cada curso."
+      }
+    },
+    {
+      "id": "reembolso",
+      "title": "Política de Reembolso",
+      "icon": "CreditCard",
+      "content": {
+        "type": "paragraph",
+        "text": "Ofrecemos un período de reembolso de 7 días a partir de la fecha de compra de cualquier curso. Para solicitar un reembolso, debes contactar a nuestro equipo de soporte con tu solicitud y motivo. No se otorgarán reembolsos después del período establecido o si se ha completado más del 30% del contenido del curso."
+      }
+    },
+    {
+      "id": "conducta",
+      "title": "Conducta del Usuario",
+      "icon": "AlertTriangle",
+      "content": {
+        "type": "list",
+        "introduction": "Como Usuario de nuestra Plataforma, te comprometes a no:",
+        "items": [
+          {
+            "description": "Utilizar la Plataforma de manera fraudulenta o para propósitos ilícitos."
+          },
+          {
+            "description": "Publicar o transmitir contenido ofensivo, difamatorio, obsceno o que viole derechos de terceros."
+          },
+          {
+            "description": "Intentar acceder sin autorización a sistemas o redes conectadas a la Plataforma."
+          },
+          {
+            "description": "Interferir con el funcionamiento adecuado de la Plataforma o con el uso de otros Usuarios."
+          },
+          {
+            "description": "Compartir tus credenciales de acceso con terceros o permitir que otros utilicen tu cuenta."
+          }
+        ]
+      }
+    },
+    {
+      "id": "responsabilidad",
+      "title": "Limitación de Responsabilidad",
+      "icon": "Shield",
+      "content": {
+        "type": "paragraph",
+        "text": "BrainsLearn proporciona la Plataforma \"tal cual\" y \"según disponibilidad\", sin garantías de ningún tipo. No garantizamos que la Plataforma esté libre de errores o que el acceso sea continuo e ininterrumpido. En ningún caso BrainsLearn será responsable por daños indirectos, incidentales, especiales o consecuentes."
+      }
+    },
+    {
+      "id": "modificaciones",
+      "title": "Modificaciones",
+      "icon": "FileText",
+      "content": {
+        "type": "paragraph",
+        "text": "Nos reservamos el derecho de modificar estos Términos y Condiciones en cualquier momento. Las modificaciones entrarán en vigor inmediatamente después de su publicación en la Plataforma. Es tu responsabilidad revisar periódicamente estos términos para estar al tanto de las actualizaciones."
+      }
+    },
+    {
+      "id": "ley",
+      "title": "Ley Aplicable",
+      "icon": "Scale",
+      "content": {
+        "type": "paragraph",
+        "text": "Estos Términos y Condiciones se regirán e interpretarán de acuerdo con las leyes del país donde BrainsLearn tiene su sede principal, sin tener en cuenta sus disposiciones sobre conflictos de leyes."
+      }
+    },
+    {
+      "id": "contacto",
+      "title": "Contacto",
+      "icon": "Mail",
+      "content": {
+        "type": "contact",
+        "introduction": "Si tienes preguntas sobre estos Términos y Condiciones, puedes contactarnos a través de:",
+        "methods": [
+          {
+            "icon": "Mail",
+            "text": "Correo electrónico: soporte@brainslearn.edu"
+          },
+          {
+            "icon": "Globe",
+            "text": "Formulario de contacto en nuestra Plataforma"
+          }
+        ]
+      }
+    }
+  ]
+}
